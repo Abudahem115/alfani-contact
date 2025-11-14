@@ -6,7 +6,7 @@ const Footer = () => {
     {
       name: "LINE",
       icon: MessageCircle,
-      url: "https://line.me/R/ti/p/@alfatani",
+      url: "https://line.me/R/ti/p/@891wnxnm",
     },
     {
       name: "TikTok",

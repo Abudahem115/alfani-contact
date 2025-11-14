@@ -6,7 +6,7 @@ const SocialMedia = () => {
     {
       name: "LINE",
       icon: MessageCircle,
-      url: "https://line.me/R/ti/p/@alfatani",
+      url: "https://line.me/R/ti/p/@891wnxnm",
       color: "bg-[#00B900]",
       handle: "@alfatani",
     },
