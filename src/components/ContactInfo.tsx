@@ -14,8 +14,8 @@ const ContactInfo = () => {
       icon: Mail,
       label: "อีเมล",
       labelEn: "Email",
-      value: "alafandee.muhdilyas@gmail.com",
-      href: "mailto:alafandee.muhdilyas@gmail.com",
+      value: "alfatani18@gmail.com",
+      href: "mailto:alfatani18@gmail.com",
     },
     {
       icon: Globe,
